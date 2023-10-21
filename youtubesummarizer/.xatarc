@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Oluwafemi-Akinyemi-s-workspace-fdbhbv.us-east-1.xata.sh/db/MySampleDataBase",
+  "codegen": {
+    "output": "src/app/xata.js"
+  }
+}
